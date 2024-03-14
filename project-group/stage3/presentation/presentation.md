@@ -283,8 +283,18 @@ header-includes:
     plt.show()
 
 ## Графики
+36600 - это критическое значение энергии
+
 ![Figure_1](https://github.com/ddshapovalova/study_2023-2024_mathmod/assets/104142929/4559291d-10b3-4de3-8b24-8eef218eefae)
+
+График режима при значении ниже критического
+
+## Графики
 ![Figure_2](https://github.com/ddshapovalova/study_2023-2024_mathmod/assets/104142929/ca294cfd-a1f3-42ab-bcfe-3602459e0619)
+
+График режима при значении выще критического
+
+Соответственно достигается пульсирующий режим
 
 
 # Заключительная часть
